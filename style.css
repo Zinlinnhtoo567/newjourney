@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Oswald:wght@200..700&display=swap');
+
+body {
+    background-color: rgb(33, 127, 190);
+}
+
+div {
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    position: relative;
+    top: 250px;
+    height: 310px;
+    width: 520px;
+    border-radius: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+h1 {
+    font-family: EB Garamond, serif;
+    font-size: 22px;
+    color: grey;
+}
+
+p {
+    font-family: Oswald, sans-serif;
+    font-size: 35px;
+}
+
+button {
+    color: white;
+    background-color: rgb(177, 20, 177);
+    border: none;
+    font-size: 17px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 4px 5px 13px rgb(156, 142, 142);
+    cursor: pointer;
+}
